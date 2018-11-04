@@ -1,0 +1,19 @@
+{
+  "name": "undenya/images",
+  "description": "HW-4",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Undenya",
+      "email": "denya.inc@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Undenya\\Images\\": "src"
+    }
+  },
+  "require": {
+    "php" : "^7.1"
+  }
+}
