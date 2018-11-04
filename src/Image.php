@@ -5,7 +5,7 @@
  * Date: 04.11.2018
  * Time: 14:09
  */
-
+namespace Undenya\Images;
 class Image
 {
     /**

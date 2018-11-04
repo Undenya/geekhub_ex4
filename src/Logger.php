@@ -5,7 +5,7 @@
  * Date: 04.11.2018
  * Time: 14:52
  */
-
+namespace Undenya\Images;
 class Logger
 {
     const LOG_DIR = __DIR__ . "/error.log";
